@@ -269,7 +269,7 @@ input {
 }
 .feature_content {
 	width:23%;
-	height:600px;
+	height:auto;
 	background-color:none;
 	float:left;
 	margin: 0px 1% 0px 1%;
